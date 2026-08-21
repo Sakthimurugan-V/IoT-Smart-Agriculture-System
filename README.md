@@ -62,8 +62,7 @@ The system also provides:
 ---
 
 ## 🧠 System Architecture
-
-
+```text
                     ┌─────────────────────┐
                     │       ESP32         │
                     │   Main Controller   │
